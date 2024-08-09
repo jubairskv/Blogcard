@@ -12,6 +12,9 @@ module.exports = {
         "color-light-white": "#FAFAF9",
         "color-drak-black": "#20293A",
       },
+      fontfamily:{
+        sora: ['Sora', 'sans-serif'],
+      },
     },
   },
   plugins: [],
