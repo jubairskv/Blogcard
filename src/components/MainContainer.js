@@ -21,7 +21,6 @@ const MainContainer = () => {
               inspire you to appreciate the beauty that lies in simplicity.
             </p>
           </div>
-
           <p className=" pt-8 font-sans text-lg text-color-dark-gray">
             Annie Spratt
           </p>
